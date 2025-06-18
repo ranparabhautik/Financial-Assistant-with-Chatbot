@@ -1,0 +1,91 @@
+{
+    "income": 10000,
+    "savings": 500000,
+    "expenses": {
+        "Loan": [
+        ],
+        "Clothes": [
+            4000,
+            600
+        ],
+        "Food": [
+            5000
+        ],
+        "Books": [
+            300,
+            6000,
+            6000
+        ],
+        "Travelling": [
+            6000
+        ]
+    },
+    "logs": [
+        {
+            "amount": 50000,
+            "category": "Loan",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 50000,
+            "category": "Loan",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 50000,
+            "category": "Loan",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 50000,
+            "category": "Loan",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 4000,
+            "category": "Clothes",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 5000,
+            "category": "Food",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 300,
+            "category": "Books",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 6000,
+            "category": "Travelling",
+            "date": "2025-04-22"
+        },
+        {
+            "amount": 600,
+            "category": "Clothes",
+            "date": "2025-04-23"
+        },
+        {
+            "amount": 6000,
+            "category": "Books",
+            "date": "2025-04-23"
+        },
+        {
+            "amount": 6000,
+            "category": "Books",
+            "date": "2025-04-23"
+        }
+    ],
+    "family_profile": {
+        "married": true,
+        "spouse_income": 30000,
+        "children": [
+            8
+        ],
+        "dependents": [
+            "Father",
+            "Mother"
+        ]
+    }
+}
